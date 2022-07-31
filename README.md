@@ -1,5 +1,5 @@
 # multi_scale_inversion
-A package for multi-scale inversion of cores, logs, and seismic data using VFSA optimization algorithm
+A package for multi-scale inversion of core, log, and seismic data using VFSA optimization algorithm
 
 I will place the codes in this repo soon. For now, enjoy reading a related papers. 
 
