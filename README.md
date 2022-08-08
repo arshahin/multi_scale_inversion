@@ -1,7 +1,11 @@
 # multi_scale_inversion
-A package for multi-scale inversion of core, log, and seismic data using VFSA optimization algorithm
 
-I will place the codes in this repo soon. For now, enjoy reading a related papers. 
+A MATLAB package for multi-scale and multi-physics VFSA optimization customized for the inversion of core, log, and seismic data. 
+
+I will place the codes in this repo soon. For now, enjoy reading the follwoing paper. The PDF is provided too.  
+
+Shahin, A., Myers, M.T., Stoffa, P.L., Hathon, L.A., 2021, Multi-scale inversion of subsurface data aimed at characterizing heterogeneous carbonate reservoirs, Journal of Seismic Exploration, Volume 30, Issue 4. [Link]
+
 
 Inverting single-scale subsurface data have been adequately addressed in literature. Nevertheless, multi-scale inversion have not been broadly studied to fully
 characterize heterogeneous carbonate reservoirs. To address multi-scale inversion for carbonates, our research deals with core plugs, well logs and seismic data in the
