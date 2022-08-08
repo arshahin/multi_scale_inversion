@@ -4,7 +4,9 @@ A MATLAB package for multi-scale and multi-physics VFSA optimization customized 
 
 I will place the codes in this repo soon. For now, enjoy reading the follwoing paper. The PDF is provided too.  
 
-Shahin, A., Myers, M.T., Stoffa, P.L., Hathon, L.A., 2021, Multi-scale inversion of subsurface data aimed at characterizing heterogeneous carbonate reservoirs, Journal of Seismic Exploration, Volume 30, Issue 4. [Link]
+Shahin, A., Myers, M.T., Stoffa, P.L., Hathon, L.A., 2021, Multi-scale inversion of subsurface data aimed at characterizing heterogeneous carbonate reservoirs, Journal of Seismic Exploration, Volume 30, Issue 4.
+
+https://www.researchgate.net/publication/361250177_MULTI-SCALE_INVERSION_OF_SUBSURFACE_DATA_AIMED_AT_CHARACTERIZING_HETEROGENEOUS_CARBONATE_RESERVOIRS
 
 
 Inverting single-scale subsurface data have been adequately addressed in literature. Nevertheless, multi-scale inversion have not been broadly studied to fully
